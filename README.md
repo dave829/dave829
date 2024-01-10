@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, I'm Seulgi David.
+
+- I'm learning about web-developing, now focusing on frontend developing. 🌱
+- I'm currently working on my projects. 🔭
+- I'm looking for opportunity to growing myself. 🌱
 
 <!--
 **dave829/dave829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
