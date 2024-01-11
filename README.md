@@ -4,7 +4,7 @@
 - I'm currently working on my projects. 🔭
 - I'm looking for opportunity to growing myself. 🌱
 
-### Tech stack
+### Tech
 - JavaScript / TypeScript
 - React
 - Tailwind / Styled-Component
