@@ -5,9 +5,7 @@
 - I'm looking for opportunity to growing myself. 🌱
 
 ### Tech stack
-- JavaScript
-- TypeScript
-
+- JavaScript / TypeScript
 - React
 - Tailwind / Styled-Component
 - Redux / Recoil
