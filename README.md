@@ -6,7 +6,7 @@
 
 ### Tech
 - JavaScript / TypeScript
-- React
-- Tailwind / Styled-Component
-- Redux / Recoil
+- React.Js / Next.Js
+- Tailwind
+- Redux / Recoil / Zustand
 - React-Query
