@@ -1,12 +1,11 @@
 ### Hello, I'm Seulgi David.
 
-- I'm learning about web-developing, now focusing on frontend developing. 🌱
-- I'm currently working on my projects. 🔭
-- I'm looking for opportunity to growing myself. 🌱
+- Web/Mobile developing. 🌱
+- I'm working on my projects. 🔭
 
 ### Tech
 - JavaScript / TypeScript
 - React.Js / Next.Js
 - Tailwind
-- Redux / Recoil / Zustand
-- React-Query
+- React Native
+  
