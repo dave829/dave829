@@ -6,6 +6,5 @@
 ### Tech
 - JavaScript / TypeScript
 - React.Js / Next.Js
-- Tailwind
-- React Native
+- React Native / Expo
   
